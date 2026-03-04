@@ -1,0 +1,7 @@
+print("Juan Benazar")
+print("I like Pizza")
+print("I will make it")
+print("I will a leader")
+print("The Grind start")
+print("I will never give up")
+print("Success is certain as long as I don't quit")
